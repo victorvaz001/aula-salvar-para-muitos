@@ -1,4 +1,4 @@
-package com.devsuperior.aula;
+package com.devsuperior.aula.dto;
 
 import com.devsuperior.aula.dto.CategoryDTO;
 import com.devsuperior.aula.entities.Category;
